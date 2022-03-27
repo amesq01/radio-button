@@ -32,7 +32,6 @@ export const Radio = ({
               justifyContent: "center",
               alignItems: "center",
               marginRight: 3,
-              backgroundColor: "blue",
             }}
           >
             {selected === index && (
